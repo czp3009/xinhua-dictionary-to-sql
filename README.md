@@ -3,7 +3,7 @@
 
 数据来自 https://github.com/pwxcoo/chinese-xinhua
 
-导出的 sql 文件总量为 53.6MiB.
+导出的 sql 文件总量为 53.4MiB.
 
 导出的文件在本仓库的 `/sql` 目录, 可以直接下载.
 
